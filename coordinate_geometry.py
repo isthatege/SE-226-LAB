@@ -5,3 +5,9 @@ y2 = float(input("Enter y2: "))
 
 distance = ((x2 - x1)**2 + (y2 - y1)**2)**0.5
 print (f"Distance : {distance}")
+
+
+print("""*******
+ *****
+  ***
+   *""")
