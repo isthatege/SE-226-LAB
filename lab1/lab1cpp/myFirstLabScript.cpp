@@ -2,7 +2,7 @@
 // Created by Ege Engin on 27.02.2026.
 //
 
-#include "myFirstLabScript.h"
+#include "../../myFirstLabScript.h"
 #include <iostream>
 #include <string>
 

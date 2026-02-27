@@ -2,7 +2,7 @@
 // Created by Ege Engin on 27.02.2026.
 //
 
-#include "time_logic.h"
+#include "../../time_logic.h"
 #include <iostream>
 int main() {
     int total_seconds;

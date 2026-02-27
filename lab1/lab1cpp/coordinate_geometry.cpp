@@ -2,7 +2,7 @@
 // Created by Ege Engin on 27.02.2026.
 //
 
-#include "coordinate_geometry.h"
+#include "../../coordinate_geometry.h"
 #include <iostream>
 #include <cmath>
 

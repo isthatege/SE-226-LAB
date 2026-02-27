@@ -2,7 +2,7 @@
 // Created by Ege Engin on 27.02.2026.
 //
 
-#include "asterisk_pattern.h"
+#include "../../asterisk_pattern.h"
 #include <iostream>
 
 int main() {
