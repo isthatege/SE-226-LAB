@@ -20,7 +20,6 @@ def task1():
     print(f"Final value: {n}")
     print(f"Total steps: {steps}\n")
 
-
 def task2():
     prompt = "Please enter a number between 10 and 100: "
 
@@ -55,11 +54,6 @@ def task2():
     print(f"Buzz count: {buzz}")
     print(f"FizzBuzz count: {fizzbuzz}\n")
 
-
-if __name__ == "__main__":
-    task1()
-    task2()
-
 def task3():
     n = int(input("Please enter a number between 3 and 9: "))
 
@@ -68,7 +62,6 @@ def task3():
         for j in range(1, k + 1):
             print(j, end="")
         print()
-
 
 if __name__ == "__main__":
     print("--- Task 1 ---")
